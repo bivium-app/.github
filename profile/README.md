@@ -1,47 +1,21 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Bivium — Every decision is a bivium" width="100%" />
-</p>
+# Bivium
 
-<p align="center">
-  <strong>Every decision is a bivium.</strong><br />
-  Choose better, starting from your current reality.
-</p>
+Every decision is a bivium — a point where paths diverge.
 
-<p align="center">
-  <a href="https://bivium.app">bivium.app</a>
-  ·
-  <a href="mailto:hello@bivium.app">hello@bivium.app</a>
-</p>
+Bivium helps people see their financial reality more clearly: income, spending, debts, liquidity, currencies, and net worth. The point is not to prescribe a lifestyle. It is to make trade-offs visible so each person can compare next steps against the life they want to sustain.
 
----
+## Philosophy, in software
 
-## What we build
+Clarity has to be built into the product.
 
-Bivium organizes your financial reality — income, spending, debts, liquidity, currencies, and net worth — so you can understand what it sustains today and compare next steps without losing sight of your freedom later.
+Bivium turns a complex financial picture into structures that can be inspected — scenarios, assumptions, and consequences — without pretending certainty where none exists.
 
-## Product
+That philosophy becomes software through models, interfaces, and engineering choices that keep interpretation close to the data.
 
-| | |
-|---|---|
-| **App** | [bivium.app](https://bivium.app) |
-| **Monorepo** | [`software-house`](https://github.com/bivium-app/software-house) |
-| **Company** | Ecce Software LTDA |
+Most of the product is developed in private repositories. Public work will appear in this organization when it is meant to be shared.
 
-## Stack (high level)
+## Look here
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## Contact
-
-- Product / general: `hello@bivium.app`
-- Security: `security@bivium.app`
-- Billing: `billing@bivium.app`
-
-<p align="center">
-  <sub>Built with care · Ecce Software LTDA</sub>
-</p>
+- Product: [bivium.app](https://bivium.app)
+- Contact: [hello@bivium.app](mailto:hello@bivium.app)
+- Security: [security@bivium.app](mailto:security@bivium.app)
